@@ -5,3 +5,4 @@
 # pd.Series(mylist)
 # pd.getSeries(mylist)\\\
 
+pd.Series(mylist)
